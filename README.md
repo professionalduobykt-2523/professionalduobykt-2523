@@ -1,274 +1,56 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img width="1700" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/f6a37239-0d45-4461-803c-51ed74118150" />
 
-<!--                    T_K KUMAR • GITHUB PROFILE                 -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-# ⚡ T_K Kumar
-
-### `Frontend Web Developer` · `B.Tech CSE • 4th Year`
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;Building+Modern+%26+Responsive+UIs;React.js+%7C+JavaScript+%7C+Tailwind+CSS;Turning+Ideas+Into+Interactive+Experiences" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Italic+Code&weight=1000&size=25&pause=1000&color=FF20E4FF&center=true&vCenter=true&width=440&lines=Front-End+Web+Developer;React.js+%7C+Tailwind+CSS;Full+Stack+Intern+in+Complete;Git+And+Github" alt="Typing SVG" />
 </p>
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 Currently completing a **Full Stack Web Development Internship**, sharpening my skills end-to-end
+- 🌱 Deepening my expertise in **React.js** and modern **Tailwind CSS** workflows
+- 💡 I love turning complex problems into simple, beautiful, and intuitive designs
+- ⚡ Fun fact: I believe clean code is just as important as a clean UI
+- 📫 Always open to collaborating on interesting front-end projects
+
+---
+
+### 🛠️ Skills & Tools
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+  <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0066FF,100:7A00FF&height=130&section=header&text=&fontSize=0"/>
-
-</div>
-
 ---
 
-## 🧑‍💻 About Me
-
-```javascript
-const developer = {
-    name: "T_K Kumar",
-    role: "Frontend Web Developer",
-    education: "B.Tech - Computer Science & Engineering",
-    year: "4th Year",
-
-    focus: [
-        "Frontend Development",
-        "UI/UX Design",
-        "Responsive Web Applications",
-        "Interactive User Experiences"
-    ],
-
-    currentlyLearning: [
-        "Advanced React.js",
-        "Modern UI/UX",
-        "Frontend Architecture"
-    ],
-
-    mindset: "Learn → Build → Improve → Repeat 🚀"
-};
-```
-
-I enjoy creating **clean, responsive and interactive web experiences** with a strong focus on **UI/UX, usability and modern frontend development**.
-
-My goal is to transform ideas into interfaces that are not only functional, but also **visually engaging and easy to use**.
-
----
-
-# ⚡ Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-| Technology          | Focus                           |
-| ------------------- | ------------------------------- |
-| 🟠 **HTML5**        | Semantic & structured web pages |
-| 🔵 **CSS3**         | Responsive layouts & animations |
-| 🟡 **JavaScript**   | Interactive web experiences     |
-| ⚛️ **React.js**     | Component-based applications    |
-| 🌊 **Tailwind CSS** | Modern utility-first UI         |
-
-### 🛠️ Tools & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,netlify" />
-</p>
-
-**Git · GitHub · Netlify · Render**
-
----
-
-# ✨ What I Build
-
-<div align="center">
-
-|     💻 Frontend     |      🎨 UI/UX     |       ⚛️ React       |
-| :-----------------: | :---------------: | :------------------: |
-| Responsive Websites | Modern Interfaces | Component-Based Apps |
-|  Interactive Pages  |    Clean Design   |      Dynamic UI      |
-|    Landing Pages    |  User-Focused UX  |  Reusable Components |
-
-</div>
-
----
-
-# 🚀 Development Workflow
-
-```text
-        💡 IDEA
-          │
-          ▼
-     🎨 UI / UX
-          │
-          ▼
-    🧩 COMPONENTS
-          │
-          ▼
-   ⚛️ REACT / JAVASCRIPT
-          │
-          ▼
-     🧪 TEST & FIX
-          │
-          ▼
-      🚀 DEPLOY
-          │
-          ▼
-     🌐 LIVE PROJECT
-```
-
----
-
-# 💎 Featured Skills
-
-<div align="center">
-
-### `HTML`  `CSS`  `JavaScript`  `React.js`
-
-### `Tailwind CSS`  `Git`  `GitHub`
-
-### `Netlify`  `Render`
-
-</div>
-
----
-
-# 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7A00FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7A00FF&currStreakLabel=00E5FF"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   ⚛️  React.js              ███████████████████░  90%  │
-│   🎨  UI / UX               ██████████████████░░  85%  │
-│   🟨  JavaScript             █████████████████░░░  85%  │
-│   🌊  Tailwind CSS           ████████████████░░░░  80%  │
-│   🌐  Responsive Design      ██████████████████░░  85%  │
-│   🚀  Deployment              ███████████████░░░░░  75%  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🌱 Currently Learning
-
-> **Building better interfaces, writing cleaner frontend code, and improving real-world development skills.**
-
-* ⚛️ Advanced React.js
-* 🎨 Modern UI/UX Design
-* 📱 Responsive Web Design
-* 🧩 Reusable Component Architecture
-* ⚡ Frontend Performance
-* 🚀 Deployment & Production Workflows
-
----
-
-# 📌 Projects
-
-### 🌐 Frontend Projects
-
-Building interactive projects using:
-
-`HTML` · `CSS` · `JavaScript` · `React.js` · `Tailwind CSS`
-
-### ⚛️ React Projects
-
-Developing component-based applications with:
-
-`React.js` · `JavaScript` · `Responsive UI`
-
-### 🚀 Deployed Projects
-
-Deploying frontend applications using:
-
-`Netlify` · `Render`
-
-> **Every project is a step toward becoming a better developer.**
-
----
-
-# 📈 My Developer Journey
-
-```text
-        LEARN
-          ↓
-        BUILD
-          ↓
-        DEBUG
-          ↓
-       IMPROVE
-          ↓
-       DEPLOY
-          ↓
-        REPEAT
-          ↺
-```
-
-### 🎓 B.Tech CSE — 4th Year
-
-Currently developing practical skills through **projects, experimentation and continuous learning** with a focus on frontend web development.
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4B4B"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 `Code. Create. Deploy. Repeat.`
-
-**Thanks for visiting my profile! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0066FF,100:7A00FF&height=120&section=footer"/>
-
-</div>
+<p align="center"><i>⭐️ Thanks for visiting my profile — let's build something great together!</i></p>
